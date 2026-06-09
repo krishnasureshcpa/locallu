@@ -1,0 +1,13 @@
+deploy-config.sh
+*api-keys*
+*.env
+.env*
+*.pdf
+*secrets*
+*token*
+*.gguf
+*.bin
+models/
+local-models/
+.DS_Store
+*.bak-*
